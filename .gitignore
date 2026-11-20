@@ -1,0 +1,8 @@
+out/
+transcripts.tar.gz
+__pycache__/
+# The meme picture itself is the X post, not a repository file: the
+# press-kit mark is make.fun's own asset and the background is a large
+# generated working file, so both stay local with the composed meme.
+assets/
+meme.png
